@@ -1,0 +1,19 @@
+# Datasets (source data, backgrounds and generated outputs) are not versioned
+datasets/
+
+# YOLO label caches
+*.cache
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
